@@ -25,13 +25,14 @@ keyboard.add_hotkey('Ctrl+Shift+E', toggle_tool)
 keyboard.add_hotkey('Ctrl+Shift+Q', lambda: keyboard_ctrl.press('esc'))
 
 # Đợi 7 giây trước khi bắt đầu
-time.sleep(7)
+time.sleep(1)
 
 while True:
     if enabled:
         press_e()
         # Đợi 1 giây trước khi nhấn "e" tiếp theo
-        time.sleep(1)
+        time.sleep(7)
     else:
         time.sleep(0.1)
+print (toan)
         
