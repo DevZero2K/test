@@ -79,4 +79,25 @@ das
 Danh lol del thích
 print (toan)
 toan
+        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd
+        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd
+
         sua code cdeodasda
