@@ -54,3 +54,9 @@ while True:
 asdsad
 asdasdsadsad
 asdasd
+
+asdsad
+assertsad
+StopAsyncIterationdsa
+dsa
+d1233333333333333333333333333333333333
