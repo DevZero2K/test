@@ -81,3 +81,21 @@ print (toan)
 toan
         
 asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd
+        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd        
+asdsadsadsassssssasdsadsadsadasdaslikdjasildjlskalkadksjdlkjlkasdsa
+asd
+staticmethodasd
