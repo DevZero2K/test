@@ -34,6 +34,19 @@ while True:
         time.sleep(7)
     else:
         time.sleep(0.1)
-print (toan)
-toan
-        
+
+while True:
+    if enabled:
+        press_e()
+        # Đợi 1 giây trước khi nhấn "e" tiếp theo
+        time.sleep(7)
+    else:
+        time.sleep(0.1)
+
+while True:
+    if enabled:
+        press_e()
+        # Đợi 1 giây trước khi nhấn "e" tiếp theo
+        time.sleep(7)
+    else:
+        time.sleep(0.1)
